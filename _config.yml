@@ -79,4 +79,4 @@ permalink: /:year/:month/:day/:title.html
 # Plugins
 plugins: [jekyll-paginate]
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-tactile
